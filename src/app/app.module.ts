@@ -32,3 +32,5 @@ export class AppModule { }
 // 248. Example: Creating a Filter Pipe
 
 // 249. Pure and Impure Pipes (or: How to "fix" the Filter Pipe)
+
+// 250. Understanding the "async" Pipe
