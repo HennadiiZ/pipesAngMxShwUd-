@@ -30,3 +30,5 @@ export class AppModule { }
 // 247. Parametrizing a Custom Pipe
 
 // 248. Example: Creating a Filter Pipe
+
+// 249. Pure and Impure Pipes (or: How to "fix" the Filter Pipe)
